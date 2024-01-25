@@ -1,18 +1,4 @@
 Add your favorite animal below!
-pandas
-Lion
-Dolphin
-Tiger
-Lion
-Chicken
-Anaconda
-Jaguar
-Dogs
-Kangaroo
-Bird
-angry birds
-Capybara
-dog
 cat
 golden retriever
 Dogs
@@ -62,4 +48,4 @@ Sloth
 Doggo
 Cats are Love
 Pooh
-
+Beaver
