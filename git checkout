@@ -1,0 +1,70 @@
+[1mdiff --git a/fav_animal.txt b/fav_animal.txt[m
+[1mindex 3f0f75c..c6da3cd 100644[m
+[1m--- a/fav_animal.txt[m
+[1m+++ b/fav_animal.txt[m
+[36m@@ -1,63 +1,2 @@[m
+ Add your favorite animal below![m
+[31m-pandas[m
+[31m-Lion[m
+[31m-Dolphin[m
+[31m-Tiger[m
+[31m-Lion[m
+[31m-Chicken[m
+[31m-Anaconda[m
+[31m-Jaguar[m
+[31m-Dogs[m
+[31m-Kangaroo[m
+[31m-Bird[m
+[31m-angry birds[m
+[31m-Capybara[m
+[31m-dog[m
+[31m-cat[m
+[31m-golden retriever[m
+[31m-Dogs[m
+[31m-Turtles[m
+[31m-Rabbit[m
+[31m-Elephants and Baby Penguins! (Maybe Sea Turtles too...)[m
+[31m-Sloth[m
+[31m-Baby Yoda[m
+[31m-dog :)[m
+[31m-turtle[m
+[31m-DOGGO[m
+[31m-Tiger[m
+[31m-Otter![m
+[31m-Turtle[m
+[31m-Turtle2[m
+[31m-Cheetah[m
+[31m-Person[m
+[31m-black bear[m
+[31m-Parrot[m
+[31m-Griffin[m
+[31m-Panda[m
+[31m-turtle[m
+[31m-Golden retrievers[m
+[31m-Grizzly bear[m
+[31m-Racoon[m
+[31m-Penguins!![m
+[31m-chickens[m
+[31m-Peacock![m
+[31m-Sloth[m
+[31m-wolves[m
+[31m-Deer[m
+[31m-Chameleon[m
+[31m-Spider[m
+[31m-wolves[m
+[31m-Goblin[m
+[31m-seals[m
+[31m-Elephants are the saviours of forest ecosystem[m
+[31m-Pandas[m
+[31m-Kangaroos[m
+[31m-Lions[m
+[31m-Mudhorn[m
+[31m-Leopard[m
+[31m-leopard1[m
+[31m-My new fav animal is lion[m
+[31m-Panda[m
+[31m-Sloth[m
+[31m-Doggo[m
+[31m-Cats are Love[m
+[32m+[m[32mTiger[m
+\ No newline at end of file[m
