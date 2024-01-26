@@ -1,8 +1,2 @@
 Add your favorite animal below!
-bison
-lion
-alligator
-octupus
-lion king
-snake
-goat
+capybara
