@@ -1,0 +1,1144 @@
+[33mcommit dc363cc6b39943002feb10a0452a08e19e1f7512[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: zen00787 <buddha@tamu.edu>
+Date:   Thu Feb 1 03:37:10 2024 -0800
+
+    added by zen007
+
+[33mcommit add4175f3d9772cc1fd679fa5dd284214d52d27f[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 956d0e6 cef12f0
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Tue Jan 30 14:31:47 2024 -0600
+
+    Merge pull request #27 from SilviaMendoza/dev_slma
+    
+    Dev slma
+
+[33mcommit cef12f02786f04baa6cc815e59edf6424a857c9d[m
+Author: Silvia Leonor Mendoza Alvarado <silvia.mendoza@undp.org>
+Date:   Sun Jan 28 23:10:22 2024 -0600
+
+    add a new animal
+
+[33mcommit 4dae1d3643532cbe4c05d2d88c03a94a64f8d4dc[m
+Author: Silvia Leonor Mendoza Alvarado <silvia.mendoza@undp.org>
+Date:   Sun Jan 28 22:37:57 2024 -0600
+
+    Dog is my favorite animal
+
+[33mcommit 956d0e62b52774a35ed829aa744439eafcf2cf1c[m
+Merge: 0bd3119 8f6aafe
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Wed Jan 24 15:29:09 2024 -0600
+
+    Merge pull request #13 from markbaconcahill/dev_mbc
+    
+    Dev mbc
+
+[33mcommit 8f6aafe66ceb988d769f045c3ecd436ad3f60c41[m
+Merge: 6453546 0bd3119
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Wed Jan 24 15:28:56 2024 -0600
+
+    Merge branch 'main' into dev_mbc
+
+[33mcommit 0bd3119ade0a7d4781fd35e11e383fd09b9d2d5a[m
+Merge: 9dd5ed9 b9b8302
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Wed Jan 24 15:27:17 2024 -0600
+
+    Merge pull request #14 from jakebpsheridan/dev_jbps
+    
+    Dev jbps
+
+[33mcommit b9b83027a62c23b68addd8a318a2278a999d8bff[m
+Author: Jake Sheridan <park555@tamu.edu>
+Date:   Wed Jan 24 04:03:47 2024 -0600
+
+    Jackalopes are fake
+
+[33mcommit d91c2c0fab16f5f0474af281241e1a11f9ed3c05[m
+Author: Jake Sheridan <park555@tamu.edu>
+Date:   Wed Jan 24 03:28:11 2024 -0600
+
+    added best animal
+
+[33mcommit 9dd5ed909168ad24ae3ae1c15e2dab66441dd5c9[m
+Merge: 4ec3533 e463da9
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Tue Jan 23 15:35:06 2024 -0600
+
+    Merge pull request #12 from rutwik-tamu/dev_rrd
+    
+    All animals are my favorite
+
+[33mcommit e463da94faf0df46b2872beda02929dff4667ada[m
+Merge: 91da6c8 4ec3533
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Tue Jan 23 15:34:39 2024 -0600
+
+    Merge branch 'main' into dev_rrd
+
+[33mcommit 645354643746220fea8b3e2006cc037a642e01d9[m
+Merge: 99bc3e2 4ec3533
+Author: markbaconcahill <101518509+markbaconcahill@users.noreply.github.com>
+Date:   Tue Jan 23 15:34:35 2024 -0600
+
+    Merge branch 'main' into dev_mbc
+
+[33mcommit 4ec35332eb5f99ebaa6dc23d72bcb6cf7a2ef113[m
+Merge: 992e2ac b1f9d29
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Tue Jan 23 15:32:11 2024 -0600
+
+    Merge pull request #1 from schafert/dev_tljs
+    
+    Dev tljs
+
+[33mcommit 99bc3e2b95f89c72e4ec189c4c962ed38ec6e006[m
+Author: Mark Cahill <markbaconcahill@gmail.com>
+Date:   Tue Jan 23 15:22:44 2024 -0600
+
+    Changed fav animal
+
+[33mcommit 91da6c89284929c4eb2cd67dbd9dd68393a6025a[m
+Author: Rutwik Dehade <rutwik@tamu.edu>
+Date:   Tue Jan 23 15:22:03 2024 -0600
+
+    There can be a power duo,right?
+
+[33mcommit b1f9d297bf5bc6e2c02bc9b34c0d2fe4f52f6e8f[m
+Author: Toryn Schafer <toryn.27@gmail.com>
+Date:   Tue Jan 23 15:21:55 2024 -0600
+
+    changed my loyalty to team octopus
+
+[33mcommit 9f77eb0807cbe7333c78b4e5fd2f9bd7c92a9093[m
+Author: Rutwik Dehade <rutwik@tamu.edu>
+Date:   Tue Jan 23 15:11:17 2024 -0600
+
+    Lion is the king
+
+[33mcommit 8951525b101e316547bd1ae4888d8747533a8bda[m
+Author: Mark Cahill <markbaconcahill@gmail.com>
+Date:   Tue Jan 23 15:02:13 2024 -0600
+
+    added my fav animal
+
+[33mcommit 385646bf198780623a976d8c9dbafd82795a8799[m
+Author: Toryn Schafer <toryn.27@gmail.com>
+Date:   Tue Jan 23 15:01:48 2024 -0600
+
+    bison are the best
+
+[33mcommit 992e2ac87987b97f8ed98c6f1b729fd2e4057b8c[m
+Author: Toryn Schafer <48369636+schafert@users.noreply.github.com>
+Date:   Wed Jan 17 16:23:08 2024 -0600
+
+    Update README.md
+
+[33mcommit 2cf88d8d9f876fa669e821af37d31c05487fc5f8[m
+Merge: c62f817 1f4f672
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:16:06 2023 -0500
+
+    Merge pull request #49 from kanak9424/dev_kt
+    
+    add favourite animal Lions
+
+[33mcommit 1f4f6722eb9760f6fec156597558fe1604e368cd[m
+Merge: ce18d49 c62f817
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:15:58 2023 -0500
+
+    Merge branch 'main' into dev_kt
+
+[33mcommit c62f81784c88247dbb94ea58fd6df60909ff5e12[m
+Merge: d41d7fe 0a7ffe3
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:15:14 2023 -0500
+
+    Merge pull request #50 from tamu-stat624/dev_tha
+    
+    'Final'
+
+[33mcommit 0a7ffe3eb785b295ffe88ec8f0e58bcda277c688[m
+Merge: 52b9ad4 d41d7fe
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:14:57 2023 -0500
+
+    Merge branch 'main' into dev_tha
+
+[33mcommit d41d7fe189f69ca95d7873b3eb1a2e27a113a16b[m
+Merge: 85d594a f22581a
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:14:24 2023 -0500
+
+    Merge pull request #51 from AltoFlanker/main
+    
+    Adding fictional animal
+
+[33mcommit f22581a2211ab3e98d00ef70c2618cb00dce64c5[m
+Merge: 316af2f 85d594a
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:13:43 2023 -0500
+
+    Merge branch 'main' into main
+
+[33mcommit 85d594af225f1806e0cadd88b8449254d7b7fd6f[m
+Merge: cf7f31e a01090f
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:11:07 2023 -0500
+
+    Merge pull request #52 from nishanthprabhakara/dev_NP
+    
+    added favorite animal lion
+
+[33mcommit a01090f554e9ed6a5cc07cfafc8f4653d9bf4907[m
+Merge: 2c69170 cf7f31e
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:10:59 2023 -0500
+
+    Merge branch 'main' into dev_NP
+
+[33mcommit cf7f31e0baea137b7a7c7b4a0adf3642b93b0e11[m
+Merge: 0754eeb b55a2a9
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:09:38 2023 -0500
+
+    Merge pull request #53 from Adithyun/dev_sa
+    
+    Dev sa
+
+[33mcommit b55a2a9142b18a2d2d245372f72113e276f80cf6[m
+Merge: db6a78a 0754eeb
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:09:31 2023 -0500
+
+    Merge branch 'main' into dev_sa
+
+[33mcommit 0754eeb4d3eec30db7c4f98760787ac1ba66d391[m
+Merge: 72e9e36 6be87f3
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:09:00 2023 -0500
+
+    Merge pull request #54 from Adithyun/dev1
+    
+    new fav animal added
+
+[33mcommit 6be87f37513ae904bfee58343e5a0d1c8ebac6d3[m
+Merge: 07f8f60 72e9e36
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:08:53 2023 -0500
+
+    Merge branch 'main' into dev1
+
+[33mcommit 72e9e36109a66f1bfd46057ecf985dfabc580621[m
+Merge: 1097573 c37ffd7
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:08:18 2023 -0500
+
+    Merge pull request #55 from dhivyaaddula/dev_da
+    
+    Dev da
+
+[33mcommit c37ffd70bf8d8f89e0ab08f18e754e20b3c5adea[m
+Merge: 0362ef9 1097573
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:08:09 2023 -0500
+
+    Merge branch 'main' into dev_da
+
+[33mcommit 10975737b3b8af496e99bc664c99d6affd6c3db2[m
+Merge: 6fbc7c4 22e4c4d
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:07:31 2023 -0500
+
+    Merge pull request #56 from vsilvas93/dev_vrr
+    
+    Added favorite animal, Otter!
+
+[33mcommit 22e4c4dd8845d239866234fbf3b5ed2798fda828[m
+Merge: 6f33a4b 6fbc7c4
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:07:24 2023 -0500
+
+    Merge branch 'main' into dev_vrr
+
+[33mcommit 6fbc7c427ac2d92d3a15e8b581b64650fcb7e502[m
+Merge: 65353ff 4cfbcc6
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:06:25 2023 -0500
+
+    Merge pull request #57 from ritikamandon/dev_rit
+    
+    Dev rit
+
+[33mcommit 4cfbcc67c573a4c71e47599cc04412b6d3772869[m
+Merge: a24a806 65353ff
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:06:15 2023 -0500
+
+    Merge branch 'main' into dev_rit
+
+[33mcommit 65353ffbf0a70cca142f6de4d7ed74278f460eac[m
+Merge: 4e2e18a 80ada0a
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:05:12 2023 -0500
+
+    Merge pull request #58 from mdabdulsalman/dev_salman
+    
+    Cats are added
+
+[33mcommit 4e2e18af369afe53f7e228d876a8c0f5ffda2f3b[m
+Merge: b18230e 30b8d06
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:04:29 2023 -0500
+
+    Merge pull request #59 from HarshPatel187/dev_hjp
+    
+    Addes my favorite animal in the text file
+
+[33mcommit 30b8d0680c46d8e823d6b3c13f63f067d981174d[m
+Merge: 1fea6cb b18230e
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:04:12 2023 -0500
+
+    Merge branch 'main' into dev_hjp
+
+[33mcommit b18230ee71cfbfb986417d4037f520f661635228[m
+Merge: 56a82be 7b810a1
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:03:40 2023 -0500
+
+    Merge pull request #60 from dzinyela/dev_rd
+    
+    Dev rd
+
+[33mcommit 7b810a1badf11660f54cfebed92d563f6a8970f8[m
+Merge: ea2e48d 56a82be
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Sep 5 13:03:27 2023 -0500
+
+    Merge branch 'main' into dev_rd
+
+[33mcommit ea2e48d74e791db24c367df5873b2ade89e4e365[m
+Author: dzinyela <dzinyela_1@tamu.edu>
+Date:   Mon Sep 4 23:01:28 2023 -0500
+
+    added favorite animal Spider
+
+[33mcommit 215f7ceace8b3f5bd97fd640112753c4e77c2eb5[m
+Author: dzinyela <dzinyela_1@tamu.edu>
+Date:   Mon Sep 4 21:36:48 2023 -0500
+
+    spiders are also cool, look at spiderman
+
+[33mcommit 1fea6cb852c99e865a3ab551bf6f71b9dd85cca5[m
+Author: HarshPatel187 <hpateltcs_187@tamu.edu>
+Date:   Mon Sep 4 16:27:19 2023 -0700
+
+    Added fav animal Chameleon
+
+[33mcommit 761269d34adb2acc10a112e9b924c54beb775ee9[m
+Author: HarshPatel187 <hpateltcs_187@tamu.edu>
+Date:   Mon Sep 4 16:09:49 2023 -0700
+
+    Deers are very cute.
+
+[33mcommit 80ada0a22e87af7d0fa9870d2d10c029e7d60a63[m
+Author: sulaiman01 <mohammadsulaiman01@gmail.com>
+Date:   Mon Sep 4 16:51:50 2023 -0500
+
+    Cats are added
+
+[33mcommit a24a8068f266c87cf8f9f23bc155333cd8d5b48b[m
+Author: ritikamandon <mandonritika@tamu.edu>
+Date:   Mon Sep 4 15:33:45 2023 -0500
+
+    Changed to Doggo
+
+[33mcommit b2faa861c6d362af3fd1e7b4f48643d74c992c5c[m
+Author: ritikamandon <mandonritika@tamu.edu>
+Date:   Mon Sep 4 15:12:54 2023 -0500
+
+    Cat
+
+[33mcommit 6f33a4b8a634ca537e95be6d99e9e5ee664aa4a6[m
+Author: Vanessa Rosas <vsilvas93@tamu.edu>
+Date:   Mon Sep 4 14:51:43 2023 -0500
+
+    Added favorite animal Otter!
+
+[33mcommit a846e3c8e7a3ac597a46968c80789bcc587c31a4[m
+Author: Vanessa Rosas <vsilvas93@tamu.edu>
+Date:   Mon Sep 4 14:37:12 2023 -0500
+
+    Otters are cool
+
+[33mcommit 0362ef99e1b9b9c8106271bdbae0d1a603d52a1d[m
+Author: Dhivya Addula <dhivyaa419@tamu.edu>
+Date:   Mon Sep 4 13:46:47 2023 -0500
+
+    Added sloth
+
+[33mcommit c92f48792bff8594f9518bde0cc4a270d06b8fa8[m
+Author: Dhivya Addula <dhivyaa419@tamu.edu>
+Date:   Mon Sep 4 13:36:19 2023 -0500
+
+    Pandas are awesome
+
+[33mcommit 07f8f60cc2e36712e713c8a6df584f95ea763065[m
+Author: Adithyun <adithyun@tamu.edu>
+Date:   Sun Sep 3 21:13:22 2023 -0400
+
+    new fav animal added
+
+[33mcommit db6a78ac097625c7e8e5cdcb70b4bd361d1c8055[m
+Author: Adithyun <adithyun@tamu.edu>
+Date:   Sat Sep 2 21:44:40 2023 -0400
+
+    added to own branch
+
+[33mcommit 40ef52d4c1eceb9aefd4aeb4943c64939d17a9a8[m
+Author: Adithyun <adithyun@tamu.edu>
+Date:   Sat Sep 2 21:26:03 2023 -0400
+
+    adding lion to the list
+
+[33mcommit 2c691708a2c70e8a8ac38de97a2b7c97a4764761[m
+Merge: a0c89be 56a82be
+Author: nishanthprabhakara <143129645+nishanthprabhakara@users.noreply.github.com>
+Date:   Sat Sep 2 14:40:50 2023 -0500
+
+    Merge branch 'main' into dev_NP
+
+[33mcommit a0c89beb47b0bc63555be6fe23035b3a96eab368[m
+Author: nishanthprabhakara <nishanth_2022@tamu.edu>
+Date:   Sat Sep 2 14:20:30 2023 -0500
+
+     added favorite animal lion
+
+[33mcommit e0b3a7709b5112f1cd95952bebe250d88b531fde[m
+Author: nishanthprabhakara <nishanth_2022@tamu.edu>
+Date:   Sat Sep 2 14:01:37 2023 -0500
+
+     Lions are basically the best and great
+
+[33mcommit 316af2f7c5a4c2204432f9b0288507b94c332376[m
+Author: Corinne Brooks <corinne@alumni.caltech.edu>
+Date:   Sat Sep 2 14:58:36 2023 -0400
+
+    Adding fictional animal
+
+[33mcommit 52b9ad46c2a2a54fc1e724201bf8d5652b654887[m
+Author: am-tharun <59869958+am-tharun@users.noreply.github.com>
+Date:   Thu Aug 31 23:51:18 2023 -0500
+
+    'Final'
+
+[33mcommit ce18d495194af0876c79da0546cdaa7e4802b4df[m
+Author: Kanak Tiwari <kanaktiwari@tamu.edu>
+Date:   Fri Sep 1 07:47:55 2023 +0530
+
+    add favourite animal Lions
+
+[33mcommit 56a82be282affe869f9d8c86893bff9303466468[m
+Merge: 2f11de8 909a0b3
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Thu Aug 31 16:19:45 2023 -0500
+
+    Merge pull request #48 from khushipjain999/dev
+    
+    added fav animal
+
+[33mcommit 909a0b3acca9380aec19cc57a763db1b04db3111[m
+Merge: cf23b9b 2f11de8
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Thu Aug 31 16:19:29 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit cf23b9b9065729c8ad1280b8a9c2ea8fbbbe783b[m
+Author: Khushi Jain <khushipjain99@gmail.com>
+Date:   Thu Aug 31 15:24:30 2023 -0500
+
+    added fav animal
+
+[33mcommit 2f11de8d3a12569b9d4228f7c288417f859a82dd[m
+Merge: 448c439 cd73b73
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 17:08:39 2023 -0500
+
+    Merge pull request #45 from Mrid02/dev_mridul
+    
+    Dev mridul
+
+[33mcommit cd73b735c2618c27e4ce1d3a4d8e15e2a35c833c[m
+Merge: bc10ed6 448c439
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 17:08:27 2023 -0500
+
+    Merge branch 'main' into dev_mridul
+
+[33mcommit 448c43989b1d90b685eaa584074b2c3d149e4c35[m
+Merge: 1f90c01 da706f5
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 17:07:43 2023 -0500
+
+    Merge pull request #46 from Paras-Juneja/dev_pj
+    
+    added favorite animal goblin
+
+[33mcommit da706f534320fec0d6c4f2dad83f4f25ee35b5e9[m
+Merge: 385ecd8 1f90c01
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 17:07:28 2023 -0500
+
+    Merge branch 'main' into dev_pj
+
+[33mcommit 385ecd853ef0898bb0d351dfeb603dd03b6d5a73[m
+Author: Paras Juneja <paras.juneja@tamu.edu>
+Date:   Wed Aug 30 16:51:10 2023 -0500
+
+    added favorite animal goblin
+
+[33mcommit bc10ed680f2808a66ea4fd4ffa85ed652b500e36[m
+Author: unknown <mridul.sharma@tamu.edu>
+Date:   Wed Aug 30 16:41:13 2023 -0500
+
+    added favorite animal kangaroo
+
+[33mcommit 69297d89667064db4794540b097d9e7078997ad2[m
+Author: unknown <mridul.sharma@tamu.edu>
+Date:   Wed Aug 30 16:33:33 2023 -0500
+
+    i added pandas
+
+[33mcommit 1f90c013b509624e34ef56c6cddf7d5956b1ada9[m
+Merge: 3a3aa71 9911411
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:31:04 2023 -0500
+
+    Merge pull request #40 from HarshPatel187/dev_sab
+    
+    Add Favourite Animal : Rabbit
+
+[33mcommit 99114111217dba74f22f89fd6077f250b42e5d34[m
+Merge: 0a7baa5 3a3aa71
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:30:39 2023 -0500
+
+    Merge branch 'main' into dev_sab
+
+[33mcommit 3a3aa711da4f79028d28710baf586b0c575ded6d[m
+Merge: f351980 d6a09c1
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:22:07 2023 -0500
+
+    Merge pull request #41 from hjuvvana/dev
+    
+    added fav animal as Lion
+
+[33mcommit d6a09c19f7dc6e101a7d05844d15ca509b80e3c1[m
+Merge: b0dcd9c f351980
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:21:57 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit f3519804bb5d0016007e0163fd02c8116ffbdc84[m
+Merge: 80a7f8e bee88f4
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:21:28 2023 -0500
+
+    Merge pull request #42 from mitchellce/dev
+    
+    added favorite animal seals
+
+[33mcommit bee88f40cb476ab6f14799767f2f3fb8f54e5687[m
+Merge: ada4c26 80a7f8e
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:21:17 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 80a7f8efa91451c41843b1fc313e3464d6394739[m
+Merge: b703c3a 4a08dcf
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:20:46 2023 -0500
+
+    Merge pull request #43 from bhavyasree0108/dev_mb
+    
+    added fav animal!
+
+[33mcommit 4a08dcf9cc694641e2ea38ce37d7bc2e5a54b66b[m
+Merge: f20839d b703c3a
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 16:20:35 2023 -0500
+
+    Merge branch 'main' into dev_mb
+
+[33mcommit b703c3a12bc6f4eb153ee90f2b4ef559a8718274[m
+Merge: 929bc06 f6c94e6
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Wed Aug 30 14:05:07 2023 -0500
+
+    Merge pull request #44 from asharsha30-1996/dev
+    
+    'Done'
+
+[33mcommit f6c94e65858fb8069b55a65b5384995a0c2c0e6c[m
+Author: Harshavardhana <asharshavardhana96@gmail.com>
+Date:   Wed Aug 30 10:31:00 2023 -0500
+
+    'Done'
+
+[33mcommit ada4c262e6545217233a84dd61e044da3bc0f74b[m
+Author: Mitchell <Mitchell.Cecilia@mayo.edu>
+Date:   Tue Aug 29 21:50:08 2023 -0500
+
+    added favorite animal seals
+
+[33mcommit b0dcd9ce12dfad3b1a5a47c051f7386a184e98db[m
+Author: 108116036 <juvvanapudiharika@gmail.com>
+Date:   Tue Aug 29 18:39:41 2023 -0500
+
+    added fav animal as Lion
+
+[33mcommit 929bc0676c4614610bc281907163069b88d82da6[m
+Merge: 81cbf33 7890a3c
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 17:18:06 2023 -0500
+
+    Merge pull request #39 from eminkazan/dev
+    
+    Anacondas are cool
+
+[33mcommit 7890a3cc153fb118a0a8ea2d04d3317703a8cec8[m
+Merge: 1bf5ec5 81cbf33
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 17:17:47 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 0a7baa514186a082ca698cc8232ca257994fbd8f[m
+Author: HarshPatel187 <hpateltcs_187@tamu.edu>
+Date:   Tue Aug 29 16:46:23 2023 -0500
+
+    Added Favourite animal Tiger
+
+[33mcommit ee0dabace4ac63f42db3c65e81e2aaf75aaa11e6[m
+Author: HarshPatel187 <hpateltcs_187@tamu.edu>
+Date:   Tue Aug 29 16:20:38 2023 -0500
+
+    Tigers are the best
+
+[33mcommit 81cbf333d31528e6536169180f255d2f3e52d8b1[m
+Merge: 3a18c84 49dce72
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 14:38:38 2023 -0500
+
+    Merge pull request #38 from Kshitij7Kadam/dev
+    
+    added the Roman pride - wolf
+
+[33mcommit 49dce729dffb908122921f22f267cb3986d08e6e[m
+Merge: 12b0623 3a18c84
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 14:36:49 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 0275503cd3e0a89f775dda1c2ae309e9ec046978[m
+Author: dzinyela <dzinyela_1@tamu.edu>
+Date:   Tue Aug 29 13:48:47 2023 -0500
+
+    spiders are scary but spiderman is cool
+
+[33mcommit 3a18c841f45e7900e34eca257df46a1662aa2177[m
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 11:19:09 2023 -0500
+
+    Update fav_animal.txt
+
+[33mcommit 12b0623dd92ee6cd1cb957cedc635594f9dff87a[m
+Author: Kshitij Marcus <kshitijk999@gmail.com>
+Date:   Tue Aug 29 10:38:55 2023 -0500
+
+    added the Roman pride - wolf
+
+[33mcommit b18c7e5e2cc004c7c1f8ce4befdb2d0b2879f0f8[m
+Merge: 582c4c4 c12b211
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 08:07:05 2023 -0500
+
+    Merge pull request #34 from yugandharkarnik1/dev_yk
+    
+    animals are the best
+
+[33mcommit c12b2117e617897b83ee8947ea399174a3ca9e9d[m
+Merge: 024675c 582c4c4
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 08:06:51 2023 -0500
+
+    Merge branch 'main' into dev_yk
+
+[33mcommit 582c4c4ac589dd10955ecd2c48b6cc8f3c71f771[m
+Merge: 33b673d c4b7e42
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 08:06:24 2023 -0500
+
+    Merge pull request #35 from omkarlimaye/dev_OVL
+    
+    Peacocks are cute
+
+[33mcommit c4b7e42b5c1b7ae038a88090854e5f368bbb1e7f[m
+Merge: 9c4d745 33b673d
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 08:06:15 2023 -0500
+
+    Merge branch 'main' into dev_OVL
+
+[33mcommit 33b673df150761837c32df6c7a676b9fdde88379[m
+Merge: 97de57d a985a11
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Tue Aug 29 08:05:36 2023 -0500
+
+    Merge pull request #37 from vchivate/dev_vsc
+    
+    Favorite animal edited
+
+[33mcommit a985a113af73f1dd34b58b5f2911df48928d68c4[m
+Merge: 33a8b14 97de57d
+Author: vchivate <143131687+vchivate@users.noreply.github.com>
+Date:   Mon Aug 28 20:04:42 2023 -0500
+
+    Merge branch 'main' into dev_vsc
+
+[33mcommit 33a8b14a60694143f2d3b064871768ebfe809139[m
+Author: vchivate <vchivate@tamu.edu>
+Date:   Mon Aug 28 19:52:04 2023 -0500
+
+    Fav. animal edited
+
+[33mcommit 74f14e0cbda6d69387517a25f9157cbeceb26251[m
+Author: vchivate <vchivate@tamu.edu>
+Date:   Mon Aug 28 19:27:17 2023 -0500
+
+    Favorite animal edited
+
+[33mcommit 97de57d41dbec199a7a0a2c3c3ec58e9567bd6a9[m
+Merge: c3b2a31 16a7b05
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 19:15:24 2023 -0500
+
+    Merge pull request #36 from archit28-tamu/dev
+
+[33mcommit 16a7b05293adaebc659866028f6cf962279226c7[m
+Author: ARCHIT GUPTA <archit.gupta@tamu.edu>
+Date:   Mon Aug 28 16:46:45 2023 -0500
+
+    added favorite animal Archit
+
+[33mcommit 9c4d745d24d1597e97afff83e5c90a752ebb391e[m
+Author: Omkar Limaye <omkar@main-10-230-138-27.tamulink.tamu.edu>
+Date:   Mon Aug 28 12:16:19 2023 -0500
+
+    Peacocks are cute
+
+[33mcommit 024675cdbe777646d410fd2a59c2fe84d11a5fe4[m
+Author: Yugandhar Karnik <yugandharkarnik@main-10-231-86-8.tamulink.tamu.edu>
+Date:   Mon Aug 28 12:15:52 2023 -0500
+
+    animals are the best
+
+[33mcommit c3b2a313667b6a3ca71ac4649204c6de1afcc5cb[m
+Merge: b4455b2 82483c4
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 11:27:59 2023 -0500
+
+    Merge pull request #33 from sophia-lazcano/dev_sophia
+    
+    Dogs are super cool! <Sophia Lazcano>
+
+[33mcommit 82483c4f41799fedfd11a5a5180f826bfeb5159d[m
+Merge: acaf896 b4455b2
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 11:27:44 2023 -0500
+
+    Merge branch 'main' into dev_sophia
+
+[33mcommit b4455b271feccb097d8384998d27cda78f4e9551[m
+Merge: 60636fc c6478ef
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:31:31 2023 -0500
+
+    Merge pull request #25 from N122RAHUL/dev
+    
+    added fav animal
+
+[33mcommit c6478ef4c5b8074b4c85ca1c1f5c43c29f918579[m
+Merge: 0337384 60636fc
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:31:23 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 60636fcb9e1bcf28e2c209cc622b09d411bbdc74[m
+Merge: b7b322b 99a9882
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:30:56 2023 -0500
+
+    Merge pull request #26 from ichbintobi/dev_tobi
+    
+    kangaroo
+
+[33mcommit 99a98824f2a23659ee4747fd86a1995ec391a9ef[m
+Merge: 23c3e30 b7b322b
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:30:36 2023 -0500
+
+    Merge branch 'main' into dev_tobi
+
+[33mcommit b7b322b91f7da2a4a8d873bb1154cc1637742e6d[m
+Merge: 821fcde d29ab02
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:30:02 2023 -0500
+
+    Merge pull request #27 from ichbintobi/dev_ooo
+    
+    Red Panda
+
+[33mcommit d29ab024b242416da8ec2b29d9cde6b3f12958ad[m
+Merge: 152d405 821fcde
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:29:52 2023 -0500
+
+    Merge branch 'main' into dev_ooo
+
+[33mcommit 821fcde6de48f6c688450551c9f05fc4e8919b23[m
+Merge: ba6c11e 02a65d7
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:29:25 2023 -0500
+
+    Merge pull request #28 from neetisharma019/dev
+    
+    Added favorite animal
+
+[33mcommit 02a65d7fe87fc8b7ca1efef26bd44ebc9fb500af[m
+Merge: c16c24e ba6c11e
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:28:56 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit ba6c11e34b40fe911ad6420d7f8178431c0faca7[m
+Merge: d677377 b8c709a
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:28:22 2023 -0500
+
+    Merge pull request #29 from tanmay-tk/dev_tk
+    
+    Dev tk
+
+[33mcommit b8c709a5f7fbee4fb1bf3ddc4487c5714161a739[m
+Merge: bee8aa7 d677377
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:28:06 2023 -0500
+
+    Merge branch 'main' into dev_tk
+
+[33mcommit d6773774efc63bbc79a424448200b9d8f83cc2e9[m
+Merge: 5253a77 883ed1c
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:27:34 2023 -0500
+
+    Merge pull request #30 from abbybade/dev
+    
+    My favorite animal
+
+[33mcommit 5253a779a2a7855b7f3aec66d1ca92b577a9d8aa[m
+Merge: 31e035c ac8c2a6
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:26:52 2023 -0500
+
+    Merge pull request #31 from tanishqdayma-tamu/dev
+    
+    Added animal Racoon
+
+[33mcommit ac8c2a6515d41bd69c8f662cd4d51d962009b091[m
+Merge: bd85507 31e035c
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:26:29 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 31e035cb7641da005d98d5f3bf3cdfc90f5ac9ff[m
+Merge: a5c9fdc 536137b
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Mon Aug 28 10:25:56 2023 -0500
+
+    Merge pull request #32 from Yoshita21/dev
+    
+    Penguins are the cutest!
+
+[33mcommit acaf896f2dc66ab623fb4fedf26ec5c757b361e7[m
+Author: sophia-lazcano <sophia_lazcano@hotmail.com>
+Date:   Mon Aug 28 10:25:40 2023 -0500
+
+    Dogs are super cool! <Sophia Lazcano>
+
+[33mcommit 536137b3f4721c376fa64c414250cf3036f97fbd[m
+Author: Yoshita21 <yoshitamanavi@gmail.com>
+Date:   Mon Aug 28 01:09:34 2023 -0500
+
+    Penguins are the cutest!
+
+[33mcommit bd85507f91a5e8d9a0e259f808f5e6cdd8148d6f[m
+Author: tanishqdayma-tamu <tanishq.dayma@tamu.edu>
+Date:   Sun Aug 27 22:42:50 2023 -0500
+
+    added favorite animal Racoon
+
+[33mcommit 883ed1c838ee090000a8f00538a4737850582570[m
+Author: abbybade <142773577+abbybade@users.noreply.github.com>
+Date:   Sun Aug 27 18:32:50 2023 -0500
+
+    added favorite animal bird
+
+[33mcommit bee8aa7559fee21fb1a1318849c8b0bebc3e099b[m
+Author: Tanmay Kakkad <tanmay@tamu.edu>
+Date:   Sun Aug 27 17:39:26 2023 -0500
+
+    commitment issues 101
+
+[33mcommit a171c033baac5d9af940649d542f7449ef78e523[m
+Author: Tanmay Kakkad <tanmay@tamu.edu>
+Date:   Sun Aug 27 17:17:19 2023 -0500
+
+    goldens are the best animals
+
+[33mcommit c16c24e25a88884e36828b318e5db5f7e04e7415[m
+Author: neetisharma019 <neeti.sharma019@gmail.com>
+Date:   Sun Aug 27 12:12:15 2023 -0500
+
+    fav animal added
+
+[33mcommit 87b164adf711172eac1c3d2738713a95cfebcfca[m
+Author: neetisharma019 <neeti.sharma019@gmail.com>
+Date:   Sun Aug 27 11:56:35 2023 -0500
+
+    Fav animal
+
+[33mcommit 152d405e1779686c356cbb8855f5333c6b5a3b0c[m
+Merge: 4999a20 a5c9fdc
+Author: ichbintobi <94129768+ichbintobi@users.noreply.github.com>
+Date:   Sat Aug 26 16:18:36 2023 -0500
+
+    Merge branch 'main' into dev_ooo
+
+[33mcommit 23c3e30920a7681c66bcc539331628311823dd41[m
+Merge: 4999a20 a5c9fdc
+Author: ichbintobi <94129768+ichbintobi@users.noreply.github.com>
+Date:   Sat Aug 26 16:12:43 2023 -0500
+
+    Merge branch 'main' into dev_tobi
+
+[33mcommit 4999a200eaad71c90a7f1755f48e5ca770da020e[m
+Author: Tobi Oladunjoye <tobioladunjoye@gmail.com>
+Date:   Sat Aug 26 15:55:02 2023 -0500
+
+    added kangaroo
+
+[33mcommit b965a4f970153993e62e9519ce108de85b41aefc[m
+Author: ichbintobi <tobioladunjoye@gmail.com>
+Date:   Sat Aug 26 15:23:42 2023 -0500
+
+    dogs are great
+
+[33mcommit 033738458a1a46771d7f5bd4d839984065fc946d[m
+Author: N122RAHUL <gautamrahulnarendra@gmail.com>
+Date:   Sat Aug 26 13:08:12 2023 -0500
+
+    added fav animal
+
+[33mcommit a5c9fdc7d9b725be3349bd5f72493e4993c0329b[m
+Merge: 84a5de2 0f0df76
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 19:02:41 2023 -0500
+
+    Merge pull request #24 from mihirl97/dev
+    
+    added favorite animal Griffin
+
+[33mcommit 0f0df76bc788af43f61a907b0d5ba884876f9e10[m
+Author: mihirl97 <mihir.limbachia@tamu.edu>
+Date:   Fri Aug 25 18:12:29 2023 -0500
+
+    added favorite animal Griffin
+
+[33mcommit 84a5de228d6156dbfd3df0531e4e5426ff74f3db[m
+Merge: 5e15c96 e132d8b
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:20:15 2023 -0500
+
+    Merge pull request #18 from SatvikPraveen/dev
+    
+    Added two favorite animals !!
+
+[33mcommit e132d8b0258990dbeeaff4133df27f58e00d77ad[m
+Merge: cbc59db 5e15c96
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:19:56 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 5e15c96ad1448821826df1be18eae9b556dacc16[m
+Merge: 37082b5 e449a8c
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:19:30 2023 -0500
+
+    Merge pull request #19 from anbankris/dev
+    
+    added favorite animal Cheetah
+
+[33mcommit e449a8c7c35f6f7c018138f6606dd9aeadcd8daf[m
+Merge: af0dfcf 37082b5
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:19:17 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 37082b5fbe9ab8bf844aa64e72baf706a5794915[m
+Merge: 0ded17c 355068e
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:18:52 2023 -0500
+
+    Merge pull request #20 from ryanlai666/dev_HaoEn
+    
+    Add angry bird please! They will be angry if you don't add them : )
+
+[33mcommit 355068e0aafe64399c18f9c85c95fd0252b3f0c8[m
+Merge: 34c773f 0ded17c
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:18:24 2023 -0500
+
+    Merge branch 'main' into dev_HaoEn
+
+[33mcommit 0ded17c478e9a34d8190d7a435e58bbb133d0ce6[m
+Merge: 3aec5ea 7d566e7
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:17:57 2023 -0500
+
+    Merge pull request #21 from deregina/dev
+    
+    added favorite animal "Person"
+
+[33mcommit 7d566e79e334a3da2c5b333558d244d02a505c87[m
+Merge: cac163f 3aec5ea
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:17:35 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 3aec5eac02261c48ebf5e792164b1772bb05517d[m
+Merge: fa4bcb0 7215abb
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:16:58 2023 -0500
+
+    Merge pull request #22 from LBBL96/dev_lbbl
+    
+    Which bear is best?
+
+[33mcommit 7215abb2191d91a10df874cfa4cf2f2308dac3a3[m
+Merge: d4f9b38 fa4bcb0
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:15:29 2023 -0500
+
+    Merge branch 'main' into dev_lbbl
+
+[33mcommit fa4bcb08c52f2122362a1a640396ace43370639a[m
+Merge: 3118f19 c9337ea
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Fri Aug 25 17:14:51 2023 -0500
+
+    Merge pull request #23 from Smondal-07/dev
+    
+    added favorite animal parrot
+
+[33mcommit c9337eae5184e7dfc8558db76de81cadf05c4909[m
+Author: Mondal <saptarshi.mondal@tamu.edu>
+Date:   Fri Aug 25 17:04:47 2023 -0500
+
+    added favorite animal parrot
+
+[33mcommit d4f9b3893089f69912ea4a455ae99fd7bb94f1ee[m
+Author: Lynn Leifker <lynn.leifker@gmail.com>
+Date:   Fri Aug 25 15:36:01 2023 -0500
+
+    Which bear is best?
+
+[33mcommit cac163f075ad96e5ba0f8c4522e3815d8c5ad904[m
+Author: Sejeong Moon <sejeongmoon@gmail.com>
+Date:   Fri Aug 25 01:29:03 2023 -0500
+
+    added favorite animal "Person"
+
+[33mcommit 34c773fa34bd9fff1a2faf23f5d5c3dddf4dbe77[m
+Author: HAO EN LAI <b908276354@gmail.com>
+Date:   Thu Aug 24 22:26:00 2023 -0500
+
+    add angry bird please!
+
+[33mcommit af0dfcfe42b6eeb066667f87e5198adcabae285d[m
+Author: Anbankris Prakasam <anban98@gmail.com>
+Date:   Thu Aug 24 22:01:19 2023 -0500
+
+    added favorite animal Cheetah
+
+[33mcommit cbc59db5c4f9c1f6d845538d79cd1f3365407a79[m
+Author: SatvikPraveen <satvikpraveen707@gmail.com>
+Date:   Thu Aug 24 18:23:36 2023 -0500
+
+    added new favorite animal Turtle2
+
+[33mcommit 3118f19c16390912e3ecd3000afe6e9a5d242d05[m
+Merge: 89b4a58 46c8c3f
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Thu Aug 24 17:21:32 2023 -0500
+
+    Merge pull request #3 from hemanth-ks97/dev
+    
+    added favorite animal Capybara
+
+[33mcommit 46c8c3f6569a95dd7d969a1c23daf33fb414f9a2[m
+Merge: 8738d4c 89b4a58
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Thu Aug 24 17:21:16 2023 -0500
+
+    Merge branch 'main' into dev
+
+[33mcommit 89b4a58029280ccdd696927798bcf8a80b26c556[m
+Merge: f01a20b dd6f63c
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Thu Aug 24 17:18:05 2023 -0500
+
+    Merge pull request #5 from androsrj/dev_ja
+    
+    Dev ja
+
+[33mcommit dd6f63ccae8c11a757e67b33430543cb6cfaddd1[m
+Merge: f0f5297 f01a20b
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Thu Aug 24 17:17:55 2023 -0500
+
+    Merge branch 'main' into dev_ja
+
+[33mcommit f01a20bee442d503705221225ac99f3c8dfff564[m
+Merge: 5063499 7cf27e4
+Author: Scott A. Bruce <scott.bruce@ymail.com>
+Date:   Thu Aug 24 17:17:29 2023 -0500
+
+    Merge pull request #6 from mcurliss/dev_mkc
+    
+    golden retrievers are the bes
